@@ -1,0 +1,10 @@
+* cl-apertium-stream-parser
+
+Apertium stream parser written in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/veer66/cl-apertium-stream-parser.git   |
+| commit  | {"messa  |
+| systems | cl-apertium-stream-parser |
+|---------+-------------------------------------------|
+
