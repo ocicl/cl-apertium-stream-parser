@@ -2,9 +2,8 @@
 
 Apertium stream parser written in Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/veer66/cl-apertium-stream-parser.git   |
-| commit  | 753c9c1  |
-| systems | cl-apertium-stream-parser |
-|---------+-------------------------------------------|
-
+|---------+-------------------------------------------------------------|
+| source  | git:https://github.com/veer66/cl-apertium-stream-parser.git |
+| commit  | 753c9c1                                                     |
+| systems | (cl-apertium-stream)                                        |
+|---------+-------------------------------------------------------------|
